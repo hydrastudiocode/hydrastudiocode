@@ -1,6 +1,7 @@
 # 💫 About Me: git init
 ### ✍️ Random Dev Quote
 📌 Ni el el dia mas Brillante ni en la noche mas oscura, ningun mal escapara de mi figura y a todos aquellos que veneran el poder del mal seran castigados por la luz de Linterna Verde.
+Atte: Linterna Verde
 
 
 ## 🌐 Socials:
