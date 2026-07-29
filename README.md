@@ -12,7 +12,7 @@
 ![](https://streak-stats.demolab.com/?user=hydrastudiocode&theme=dark&hide_border=false)<br/>
 
 ### ✍️ Random Dev Quote
-![](https://stirring-nougat-a8d797.netlify.app/api?type=horizontal&theme=radical)
+![](https://stirring-nougat-a8d797.netlify.app)
 
 ---
 [![](https://komarev.com/ghpvc/?username=hydrastudiocode&icon=2&color=0)](https://visitcount.itsvg.in)
