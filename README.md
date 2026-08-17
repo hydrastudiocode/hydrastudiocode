@@ -47,6 +47,4 @@ Contact and social links will appear here.
   </picture>
 </p>
 
-![Portada Z8N](batman_5120x2880_xtrafondos.com.jpg)
-
 <!-- Sections: Header, About Me, Skills, GitHub Stats, Projects, Connect -->
