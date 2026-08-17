@@ -21,14 +21,7 @@ Shapes the short profile story and positioning.
     <img src="https://www.gitskins.com/api/section/about?username=hydrastudiocode&theme=neon" alt="hydrastudiocode about section" />
   </picture>
 </p>
-## Skills
-Selected stack and skill badges will be generated from the GitHub profile and README strategy.
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=hydrastudiocode&theme=neon&mode=light" />
-    <img src="https://www.gitskins.com/api/section/stack?username=hydrastudiocode&theme=neon" alt="hydrastudiocode stack section" />
-  </picture>
-</p>
+
 ## GitHub Stats
 GitSkins stat widgets will use the **Neon** theme.
 <p align="center">
