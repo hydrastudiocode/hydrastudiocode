@@ -7,31 +7,30 @@
 │  ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝
 └─────────────────────────────────────────────────────────────┘
 
-🐧 Arch Linux · Full-Stack Engineer · Open Source
+🐧 Arch Linux · Open Source
 
 ───────────────────────────────────────────────────────────────
 
 📂 PROJECTS
 
-  ▸ hydra-dotfiles       - Arch configs & dotfiles
-  ▸ rust-web3            - Blockchain API in Rust
-  ▸ django-api           - REST API with Django
-  ▸ godot-rpg            - RPG game in Godot 4
-  ▸ neovim-config        - Custom Neovim setup
+  ▸ Carolina-Bot         - n8n, apis, automatizacion
+  ▸ Anthon-Code          - js, firebase, codemirror, bloques de codigo
+  ▸ Paimon               - Platformer Godot 4
+  ▸ Z8N                  - Flujos para tu proyecto
 
 ───────────────────────────────────────────────────────────────
 
 🛠️  TECH STACK
 
-  Languages   Python · Rust · TypeScript · Go · Bash
+  Languages    C · Php · js · GdScript · Bash
   Frameworks  React · Vue · Actix · Django · Tauri
-  Tools       Docker · Git · Neovim · Godot · PostgreSQL
+  Tools       Docker · Git · visual · Godot · Mysql
 
 ───────────────────────────────────────────────────────────────
 
 📊 GITHUB
 
-  ⭐ 1.2k stars  ·  🍴 45 forks  ·  📦 32 repos
+  ⭐ 12 stars  ·  📦 16 repos
 
 ───────────────────────────────────────────────────────────────
 
@@ -40,8 +39,8 @@
   ▸ GitHub    github.com/hydrastudiocode
   ▸ Twitter   twitter.com/hydrastudiocode
   ▸ LinkedIn  linkedin.com/in/hydrastudiocode
-  ▸ Email     hydrastudiocode@proton.me
-  ▸ Website   hydrastudiocode.dev
+  ▸ Email     hydrastudiocode@gmail.com
+  ▸ Website   hydrastudiocode.com
 
 ───────────────────────────────────────────────────────────────
 
