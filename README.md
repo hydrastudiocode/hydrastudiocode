@@ -28,12 +28,6 @@
 
 ───────────────────────────────────────────────────────────────
 
-📊 GITHUB
-
-  ⭐ 12 stars  ·  📦 16 repos
-
-───────────────────────────────────────────────────────────────
-
 🌐 CONNECT
 
   ▸ GitHub    github.com/hydrastudiocode
@@ -41,13 +35,6 @@
   ▸ LinkedIn  linkedin.com/in/hydrastudiocode
   ▸ Email     hydrastudiocode@gmail.com
   ▸ Website   hydrastudiocode.com
-
-───────────────────────────────────────────────────────────────
-
-📈 STATS
-
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hydrastudiocode&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=1793D1&icon_color=87CEEB)
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hydrastudiocode&theme=radical&hide_border=true&background=0D1117&stroke=1793D1&ring=87CEEB&fire=FFB000)
 
 ───────────────────────────────────────────────────────────────
 
