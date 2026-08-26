@@ -37,8 +37,6 @@
 ───────────────────────────────────────────────────────────────
 
 [![Arch](https://img.shields.io/badge/Arch-1793D1?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org/)
-[![Neovim](https://img.shields.io/badge/Neovim-87CEEB?style=flat-square&logo=neovim&logoColor=white)](https://neovim.io/)
-[![Bash](https://img.shields.io/badge/Bash-FFB000?style=flat-square&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ---
 
