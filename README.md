@@ -7,9 +7,9 @@
 │  ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝
 └─────────────────────────────────────────────────────────────┘
 
-🐧🐧🐧🐧🐧
+🐧🐧🐧🐧
 
-📂 PROJECTS
+📂 PROJECTOS
 
   ▸ Carolina-Bot         - n8n, apis, automatizacion
   ▸ Anthon-Code          - js, firebase, codemirror, bloques de codigo
@@ -18,15 +18,15 @@
 
 ───────────────────────────────────────────────────────────────
 
-🛠️  TECH STACK
-
+🛠️  STACK TECNICO
+ 
   Languages    C · Php · js · GdScript · Bash
   Frameworks  React · Vue · Actix · Django · Tauri
   Tools       Docker · Git · visual · Godot · Mysql
 
 ───────────────────────────────────────────────────────────────
 
-🌐 CONNECT
+🌐 LINKS
 
   ▸ GitHub    github.com/hydrastudiocode
   ▸ Twitter   twitter.com/hydrastudiocode
