@@ -7,7 +7,7 @@
 │  ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝
 └─────────────────────────────────────────────────────────────┘
 
-🐧🐧🐧🐧
+🐧🐧🐧
 
 📂 PROJECTOS
 
@@ -28,11 +28,11 @@
 
 🌐 LINKS
 
-  ▸ GitHub    github.com/hydrastudiocode
-  ▸ Twitter   twitter.com/hydrastudiocode
-  ▸ LinkedIn  linkedin.com/in/hydrastudiocode
-  ▸ Email     hydrastudiocode@gmail.com
-  ▸ Website   hydrastudiocode.com
+  ▸ GitHub    github.com/hydrastudiocode 🐧
+  ▸ Twitter   twitter.com/hydrastudiocode 🐧
+  ▸ LinkedIn  linkedin.com/in/hydrastudiocode 🐧
+  ▸ Email     hydrastudiocode@gmail.com 🐧
+  ▸ Website   hydrastudiocode.com 🐧
 
 ───────────────────────────────────────────────────────────────
 
