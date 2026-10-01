@@ -21,7 +21,7 @@
 🛠️  STACK TECNICO
  
   Languages    C · Php · js · GdScript · Bash
-  Frameworks  React · Vue · Actix · Django
+  Frameworks  React · Vue · Django
   Tools       Docker · Git · visual · Godot · Mysql
 
 ───────────────────────────────────────────────────────────────
